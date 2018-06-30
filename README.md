@@ -12,6 +12,7 @@ For this project, the user is able to;
 ## Project Overview
 
 The pixel art project can be accessed on the link below:
+https://faustineomuya.github.io/pixel-art/
 
 
 ### References
